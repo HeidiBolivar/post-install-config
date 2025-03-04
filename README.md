@@ -100,7 +100,10 @@ Under the same "Manage" tab go to the "Help Topics" tab and create four help top
 
 Next: [osTicket: Lifecycle of a ticket](https://github.com/HeidiBolivar/ticket-lifecycle)
 <br />
-<br />
+
+---
+Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on [LinkedIn](https://www.linkedin.com/in/heidibolivar/) 🤝 and let's see what we can build together ✨.
+
 </p>
 
 <!--
