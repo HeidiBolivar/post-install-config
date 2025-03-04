@@ -97,6 +97,8 @@ Under the same "Manage" tab go to the "Help Topics" tab and create four help top
 <h2>osTicket Setup Complete!</h2>
 
 <b> We've successfully set up multiple agents along with their departments, roles, and permissions. As well as, configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where I will create and work different tickets using multiple agents and users!  </b>
+
+Next: [osTicket: Lifecycle of a ticket](https://github.com/HeidiBolivar/ticket-lifecycle)
 <br />
 <br />
 </p>
